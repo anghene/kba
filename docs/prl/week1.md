@@ -1,4 +1,4 @@
-**week1
+**week1**
 =======
 
 I've reached out to my coordinating professor and we discussed the base idea of my application.
