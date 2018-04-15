@@ -25,7 +25,7 @@
         <div class="col-md-4">
           <h2>About me</h2>
           	<div class="caption">
-				Hello. I am Vlad Anghene (<i class="fa fa-twitter"></i> <a href="http://twitter.com/avaloncoder" target="_blank" title="check out my profile, follow me and let's tweet!">@avaloncoder</a>) </br> I am a final year <strong> computer science </strong> student at <a href="http://uab.ro" title="My Uni's website"> Universitatea 1 Decembrie 1918</a> in Alba Iulia.
+Hello
       		</div>
         </div>
         <div class="col-md-4">
